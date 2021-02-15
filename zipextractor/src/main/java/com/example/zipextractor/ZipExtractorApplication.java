@@ -10,8 +10,4 @@ public class ZipExtractorApplication {
 		SpringApplication.run(ZipExtractorApplication.class, args);
 	}
 
-	//Test file
-//	Another Test File
-	//Last Test File
-
 }
